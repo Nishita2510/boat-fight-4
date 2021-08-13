@@ -35,9 +35,9 @@ power2Img = loadImage("images/power3.png");
 
 power3Img = loadImage("images/power6.png");
 
-//hitSound = loadSound("sounds/hit.mp3");
-//bgSound = loadSound("sounds/bg.wav");
-//laughing = loadSound("sounds/laughing.wav")
+hitSound = loadSound("sounds/hit.mp3");
+bgSound = loadSound("sounds/bg.wav");
+laughing = loadSound("sounds/laughing.wav")
 }
 
 function setup() {
